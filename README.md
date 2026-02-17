@@ -1,2 +1,5 @@
-# python-basic-practice
-if - else and for loop
+## Topics Covered
+- if-else statements
+- for loops
+- for-else structure
+- basic logical flow
